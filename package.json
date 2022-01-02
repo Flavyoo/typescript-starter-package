@@ -1,0 +1,29 @@
+{
+  "name": "typescript-starter-package",
+  "version": "1.0.0",
+  "description": "A starter package for TypeScript and Node Projects",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flavyoo/typescript-starter-package.git"
+  },
+  "keywords": [
+    "typescript",
+    "typescript starter",
+    "node starter",
+    "npm package starter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flavyoo/typescript-starter-package/issues"
+  },
+  "homepage": "https://github.com/Flavyoo/typescript-starter-package#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
